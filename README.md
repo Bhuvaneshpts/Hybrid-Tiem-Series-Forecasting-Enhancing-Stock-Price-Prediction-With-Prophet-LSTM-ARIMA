@@ -1,1 +1,1 @@
-# Hybrid-Tiem-Series-Forecasting-Enhancing-Stock-Price-Prediction-With-Prophet-LSTM-ARIMA
+# Hybrid-Time-Series-Forecasting-Enhancing-Stock-Price-Prediction-With-Prophet-LSTM-ARIMA
